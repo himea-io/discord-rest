@@ -3,7 +3,10 @@ An easy way to retrieve information through a Discord bot.
 
 ## Setup
 
-You just need to set your discord bot token in the `.env` file.
+1. Set your discord bot token in the `.env` file.
+2. Type `npm install`
+3. Type `npm start`
+4. Enjoy your stuff!
 
 ## Routes descriptions
 

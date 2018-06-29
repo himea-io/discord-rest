@@ -3,10 +3,11 @@ An easy way to retrieve information through a Discord bot.
 
 ## Setup
 
-1. Set your discord bot token in the `.env` file.
-2. Type `npm install`
-3. Type `npm start`
-4. Enjoy your stuff!
+1. Clone the repository and access it `git clone https://github.com/himea-io/discord-rest.git && cd discord-rest`.
+2. Set your discord bot token and the server port (default 3001) in the `.env` file.
+3. Type `npm install`.
+4. Type `npm start`.
+5. Enjoy your stuff!
 
 ## Routes descriptions
 

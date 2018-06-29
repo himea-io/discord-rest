@@ -1,0 +1,31 @@
+{
+  "name": "discord-rest",
+  "version": "0.0.1",
+  "description": "An easy way to retrieve information through a Discord bot.",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {
+    "debug": "~2.6.9",
+    "dotenv": "^6.0.0",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himea-io/discord-rest.git"
+  },
+  "keywords": [
+    "discord",
+    "rest"
+  ],
+  "author": "Cédric <triozer@himea.io> (Triozer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himea-io/discord-rest/issues"
+  },
+  "homepage": "https://github.com/himea-io/discord-rest#readme"
+}

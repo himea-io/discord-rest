@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "cors": "^2.8.4",
     "discord.js": "^11.3.2"
   },
   "devDependencies": {

@@ -23,7 +23,7 @@
     "discord",
     "rest"
   ],
-  "author": "Cédric <triozer@himea.io> (Triozer)",
+  "author": "Cédric <triozer@himea.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/himea-io/discord-rest/issues"

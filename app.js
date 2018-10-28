@@ -15,7 +15,10 @@ const client = new Discord.Client()
 client.login(process.env.TOKEN).then(() => {
   // all routes prefixed with api/v1
   app.use('/api/v1', require('./src/routes/v1').router)
-}).catch((error) => process.exit(1))
+}).catch((error) => {
+  console.log(error)
+  process.exit(1)
+})
 // send a message on login
 client.on('ready', () => console.log(`Discord bot started\n`))
 

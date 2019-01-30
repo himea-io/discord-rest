@@ -26,4 +26,4 @@ An easy way to retrieve information through a Discord bot.
 
 ## Demo
 
-See this in action at : https://himea.io/api/v1/
+See this in action at : https://himea-restapi.herokuapp.com/api/v1
